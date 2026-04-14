@@ -17,7 +17,7 @@ Proyek ini memiliki efisiensi sumber daya dan kinerja yang tinggi, termasuk pemr
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Editor Kode | Visual Studio Code |
 | Dukungan Aplikasi | • Wokwi<br>• MQTTX<br>• Node.js |
-| Platform IoT | EMQX Broker |
+| Broker MQTT | EMQX Broker |
 | Protokol komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• Message Queuing Telemetry Transport (MQTT) |
 | Arsitektur IoT | 3 Lapisan |
 | Kerangka Kerja | • Bootstrap 5<br>• Express.js<br>• Font-Awesome 6 |
