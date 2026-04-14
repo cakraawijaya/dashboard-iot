@@ -17,7 +17,7 @@ This project has high resource efficiency and performance, including real-time d
 | Development Board | DOIT ESP32 DEVKIT V1 |
 | Code Editor | Visual Studio Code |
 | Application Support | • Wokwi<br>• MQTTX<br>• Node.js |
-| IoT Platform | EMQX Broker |
+| MQTT Broker | EMQX Broker |
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• Message Queuing Telemetry Transport (MQTT) |
 | IoT Architecture | 3 Layer |
 | Framework | • Bootstrap 5<br>• Express.js<br>• Font-Awesome 6 |
